@@ -1,23 +1,23 @@
-## First Name Last Name
+## Amelia Wood
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Statistics
 
-- Course 3
+- Physics 2
 
-- Course 4
+- Object Oriented Programming
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Music
 
-- Thing 2
+- Running
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Transferring to Florida Poly as shown in this website <https://floridapoly.edu/news/sophomore-finds-the-right-fit-at-florida-poly/>
